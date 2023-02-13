@@ -1,4 +1,4 @@
-# vibbratest
+# vue-app
 
 ## Project setup
 ```
